@@ -5,7 +5,8 @@
 
 This dataset and accompanying code are supplemental to our paper:
 > Syed M. Iqbal, Haley Li, Shane Bergsma, Ivan Beschastnikh, Alan J. Hu. "[**CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances**](https://dl.acm.org/doi/10.1145/3542929.3563499)", in Proceedings of the 13th ACM Symposium on Cloud Computing (SoCC 2022), November 2022.
-We used these datasets to evaluate our VM/spot allocation framework, but release these as we hope they are useful for
+
+We used these datasets to evaluate our VM/spot allocation framework, but release them as we hope they are useful for
 others. (However, we make no warranties about this data for any purpose, as noted in our [license](#license).)
 You should refer to the paper for additional details.
 
