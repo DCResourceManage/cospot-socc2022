@@ -33,4 +33,3 @@ Lastly, if you have any questions, comments, or concerns, or if you would like t
 The schema is identical to the original Protean schema. A description of that schema can be found [here](https://github.com/Azure/AzurePublicDataset/blob/master/AzureTracesForPacking2020.md#schema-and-description)
 
 The VM/spot requests in our traces contain additional `core`/`ram` fields that capture concrete requirements for their corresponding VM flavors based on the optimal solution returned for our ILP.
->>>>>>> Stashed changes
